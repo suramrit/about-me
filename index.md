@@ -1,6 +1,4 @@
-#fmt.Println("Hello there!")
-
-Hello! Im Suramrit. A systems/software engineer. I currently live in Kirkland, WA with my wonderful wife. 
+A systems/software engineer. I currently live in Kirkland, WA with my wonderful wife. 
 
 I am currently ramping up my interview prepartion as I am pursuing opportunities in core distributed systems and software engineering related roles. 
 
