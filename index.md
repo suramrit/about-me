@@ -7,7 +7,7 @@ When I am not building and testing software and networks, I like to indulge with
 Here are some things that I always aspire to be better at : 
 - Algorithm and Data Structures (Thats the bread and butter)
 - Building Scalable systems(Some more bread and butter) 
-- Chess (currently aspiring for a 1500 FIDE rating)
+- Chess (hope to have a 2000 FIDE rating)
 - Science Education (Teaching Science and programming is fun!)
 - Classical Music (Learning a violin is hard) 
 - Astrophotography (Who knew trying to sit still for hours would be so much fun)
